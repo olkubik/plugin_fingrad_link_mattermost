@@ -1,0 +1,10 @@
+{
+  "id": "fingrad_link",
+  "name": "Fingrad Link",
+  "description": "Provides quick access to Fingrad",
+  "icon_path": "assets/icon.jpg",
+  "webapp": {
+    "bundle_path": "webapp/dist/main.js"
+  }
+
+}

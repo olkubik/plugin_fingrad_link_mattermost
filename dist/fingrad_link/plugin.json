@@ -1,0 +1,11 @@
+{
+    "id": "fingrad_link",
+    "name": "Fingrad Link",
+    "description": "Provides quick access to Fingrad",
+    "release_notes_url": "releases/tag/v0.5.0",
+    "icon_path": "assets/icon.jpg",
+    "version": "0.5.0+296f916",
+    "webapp": {
+        "bundle_path": "webapp/dist/main.js"
+    }
+}
